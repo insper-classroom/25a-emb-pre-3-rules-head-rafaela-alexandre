@@ -1,5 +1,5 @@
 // main.c
-// Oi
+
 #include "foo.h"
 
 int main(void) {
